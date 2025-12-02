@@ -2,7 +2,7 @@
 
 <p>
   🚀 Desenvolvedor Fullstack apaixonado por tecnologia e inovação.<br/>
-  💼 Estagiando no time de DevOps da Telefônica Brasil (Vivo).<br/>
+  💼 Estagiando no time de Desenvolvimento da RE:Sum software.<br/>
   🎯 Foco em construir soluções eficientes, escaláveis e seguras.
 </p>
 
@@ -19,7 +19,7 @@
 
 ### 🛠️ &nbsp;Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,java,python,bootstrap,tailwind,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,nestjs,java,python,bootstrap,tailwind,git,github&theme=dark" />
 
 ---
 
